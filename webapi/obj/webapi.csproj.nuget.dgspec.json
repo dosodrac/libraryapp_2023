@@ -1,36 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KamranA\\OneDrive - The Royal Society\\Kamran\\JuniorDeveloperRole2023\\TechnicalTest\\RS.Library\\webapi\\webapi.csproj": {}
+    "C:\\Users\\David.Cardoso\\source\\repos\\GitHub\\library-management\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KamranA\\OneDrive - The Royal Society\\Kamran\\JuniorDeveloperRole2023\\TechnicalTest\\RS.Library\\webapi\\webapi.csproj": {
+    "C:\\Users\\David.Cardoso\\source\\repos\\GitHub\\library-management\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KamranA\\OneDrive - The Royal Society\\Kamran\\JuniorDeveloperRole2023\\TechnicalTest\\RS.Library\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\David.Cardoso\\source\\repos\\GitHub\\library-management\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\KamranA\\OneDrive - The Royal Society\\Kamran\\JuniorDeveloperRole2023\\TechnicalTest\\RS.Library\\webapi\\webapi.csproj",
-        "packagesPath": "C:\\Users\\kamranadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KamranA\\OneDrive - The Royal Society\\Kamran\\JuniorDeveloperRole2023\\TechnicalTest\\RS.Library\\webapi\\obj\\",
+        "projectPath": "C:\\Users\\David.Cardoso\\source\\repos\\GitHub\\library-management\\webapi\\webapi.csproj",
+        "packagesPath": "C:\\Users\\David.Cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David.Cardoso\\source\\repos\\GitHub\\library-management\\webapi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kamranadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\David.Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+          "https://sita-pse.pkgs.visualstudio.com/_packaging/OneConfigTool%40Local/nuget/v3/index.json": {},
+          "https://sita-pse.pkgs.visualstudio.com/_packaging/shared-libraries/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -76,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

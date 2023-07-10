@@ -31,3 +31,36 @@ C:\Users\KamranA\OneDrive - The Royal Society\Kamran\JuniorDeveloperRole2023\Tec
 C:\Users\KamranA\OneDrive - The Royal Society\Kamran\JuniorDeveloperRole2023\TechnicalTest\RS.Library\webapi\obj\Debug\net7.0\webapi.pdb
 C:\Users\KamranA\OneDrive - The Royal Society\Kamran\JuniorDeveloperRole2023\TechnicalTest\RS.Library\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
 C:\Users\KamranA\OneDrive - The Royal Society\Kamran\JuniorDeveloperRole2023\TechnicalTest\RS.Library\webapi\obj\Debug\net7.0\ref\webapi.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\refint\webapi.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.pdb
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\appsettings.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\webapi.exe
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\webapi.deps.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\webapi.runtimeconfig.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\webapi.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\webapi.pdb
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.csproj.AssemblyReference.cache
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.AssemblyInfoInputs.cache
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.AssemblyInfo.cs
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.webapi.props
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapi.props
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\scopedcss\bundle\webapi.styles.css
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.csproj.CopyComplete
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
+C:\Users\David.Cardoso\source\repos\GitHub\library-management\webapi\obj\Debug\net7.0\ref\webapi.dll
